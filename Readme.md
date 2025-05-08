@@ -41,7 +41,9 @@ Sebelum memulai pengembangan dengan CodeIgniter 4, beberapa persiapan harus dila
 
 📷 **Screenshot Konfigurasi PHP.ini:**
 
-![alt text](1.png)
+
+![1](https://github.com/user-attachments/assets/7f11d7a3-2bad-4d87-b857-d188d61a9035)
+
 
 ---
 
