@@ -73,7 +73,8 @@ php spark
 
 📷 **Screenshot Hasil Perintah CLI:**
 
-![alt text](image-2.png)
+![3](https://github.com/user-attachments/assets/5c785d94-31c3-46c6-9f27-f2cb87ea6bb7)
+
 
 ---
 
@@ -88,7 +89,8 @@ CI_ENVIRONMENT = development
 
 📷 **Screenshot Konfigurasi Debugging:**
 
-![alt text](image-3.png)
+![4](https://github.com/user-attachments/assets/5970b2a6-df73-40d7-9615-9cb4728983f1)
+
 
 ---
 
@@ -110,8 +112,9 @@ php spark routes
 
 📷 **Screenshot CLI & Error Page:**
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+![5](https://github.com/user-attachments/assets/6b7a5909-328d-45b0-aa5c-c989439a2fed)
+![6](https://github.com/user-attachments/assets/edc63132-7982-4e00-ab5b-9ed1545b4d1c)
+
 ---
 
 ### 📌 6. Membuat Controller Page
@@ -130,7 +133,8 @@ class Page extends BaseController {
 
 📷 **Screenshot Tampilan About Page:**
 
-![alt text](image-6.png)
+![7](https://github.com/user-attachments/assets/ed5d30cc-6461-4c5f-ade9-80b820a41586)
+
 
 ---
 
@@ -153,7 +157,8 @@ Buat file `app/Views/about.php` dengan kode berikut:
 
 📷 **Screenshot Tampilan View About Page:**
 
-![alt text](image-7.png)
+![8](https://github.com/user-attachments/assets/089e84ce-ff91-4b64-bd24-52ad9ac387cd)
+
 
 ---
 
@@ -174,7 +179,8 @@ Untuk meningkatkan tampilan website, kita akan menggunakan template header dan f
 
 📷 **Screenshot Tampilan dengan Template:**
 
-![alt text](image-8.png)
+![9](https://github.com/user-attachments/assets/ece7ce51-7a28-474c-967c-fa0da2259aa4)
+
 
 ---
 
