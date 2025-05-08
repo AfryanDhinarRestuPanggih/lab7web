@@ -56,7 +56,8 @@ Untuk memulai, kita perlu mengunduh dan menyiapkan CodeIgniter 4 pada server lok
 
 📷 **Screenshot Tampilan Awal CodeIgniter 4:**
 
-![1](https://github.com/user-attachments/assets/bd08af16-d309-4f5f-9970-9a590aee2a02)
+![2](https://github.com/user-attachments/assets/876c2988-1cce-47ef-bc76-ca6e7c35bdce)
+
 
 
 ---
